@@ -1,0 +1,6 @@
+[submodule "antevents-python"]
+	path = antevents-python
+	url = https://github.com/mpi-sws-rse/antevents-python.git
+[submodule "mpfshell"]
+	path = mpfshell
+	url = https://github.com/wendlers/mpfshell.git
