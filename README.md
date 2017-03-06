@@ -6,7 +6,7 @@ A (hopefully temporary) repo for use with the [MicroPython IoT Hackathon](http:/
 
 Assuming you're successfully cloned this repo, there's just a few more steps get everything setup:
 
-1) Both [antevents-python](https://github.com/mpi-sws-rse/antevents-python) and [mpftool](https://github.com/wendlers/mpfshell) are included as git submodules:
+1) Both [antevents-python](https://github.com/mpi-sws-rse/antevents-python) and [mpfshell](https://github.com/wendlers/mpfshell) are included as git submodules:
 
 ```
 cd oncemore
@@ -21,10 +21,10 @@ git submodule init
 pip install esptool colorama websocket_client 
 ```
 
-2) Install mpftool:
+2) Install mpfshell:
 
 ```
-cd mpftool
+cd mpfshell
 python setup.py install
 ```
 
