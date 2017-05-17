@@ -11,6 +11,7 @@ Assuming you're successfully cloned this repo, there's just a few more steps get
 ```
 cd oncemore
 git submodule init
+git submodule update
 ```
 
 2) Optional: Configure your virtualenv as appropriate, whether using virtualenv or python3 -m venv, and activate it.
